@@ -9,7 +9,6 @@
   "author": "max ogden",
   "license": "BSD",
   "dependencies": {
-    "dat": "maxogden/dat",
     "request": "^2.34.0",
     "xml2js": "^0.4.1"
   },
